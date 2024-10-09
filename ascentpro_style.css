@@ -1,0 +1,115 @@
+/* Light mode styles */
+.root {
+    background-color: #f5f5f5;
+    color: #202124;
+}
+
+.Sidebar.TFrame {
+    background-color: #ffffff;
+    border-right: 1px solid #e0e0e0;
+}
+
+.Sidebar.TLabel {
+    font-size: 24px;
+    font-weight: bold;
+    color: #202124;
+}
+
+.Sidebar.TButton {
+    background-color: transparent;
+    color: #202124;
+    font-size: 14px;
+    border: none;
+    border-radius: 0 25px 25px 0;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+.Sidebar.TButton:hover {
+    background-color: #f1f3f4;
+}
+
+.TNotebook {
+    background-color: #ffffff;
+}
+
+.TNotebook.Tab {
+    background-color: #ffffff;
+    padding: 5px 15px;
+    font-size: 14px;
+}
+
+.TNotebook.Tab:selected {
+    background-color: #e8f0fe;
+    color: #1a73e8;
+}
+
+.TEntry, .TCombobox {
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.TButton {
+    background-color: #1a73e8;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 14px;
+}
+
+.TButton:hover {
+    background-color: #185abc;
+}
+
+/* Dark mode styles */
+.root[style*="darkly"] {
+    background-color: #202124;
+    color: #e8eaed;
+}
+
+.root[style*="darkly"] .Sidebar.TFrame {
+    background-color: #2d2e30;
+    border-right: 1px solid #3c4043;
+}
+
+.root[style*="darkly"] .Sidebar.TLabel {
+    color: #e8eaed;
+}
+
+.root[style*="darkly"] .Sidebar.TButton {
+    color: #e8eaed;
+}
+
+.root[style*="darkly"] .Sidebar.TButton:hover {
+    background-color: #3c4043;
+}
+
+.root[style*="darkly"] .TNotebook {
+    background-color: #2d2e30;
+}
+
+.root[style*="darkly"] .TNotebook.Tab {
+    background-color: #2d2e30;
+}
+
+.root[style*="darkly"] .TNotebook.Tab:selected {
+    background-color: #3c4043;
+    color: #8ab4f8;
+}
+
+.root[style*="darkly"] .TEntry, .root[style*="darkly"] .TCombobox {
+    background-color: #2d2e30;
+    border-color: #5f6368;
+    color: #e8eaed;
+}
+
+.root[style*="darkly"] .TButton {
+    background-color: #8ab4f8;
+    color: #202124;
+}
+
+.root[style*="darkly"] .TButton:hover {
+    background-color: #669df6;
+}

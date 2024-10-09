@@ -1,0 +1,343 @@
+{
+  "team_members": {
+    "Abdul Muqtadir": {
+      "job_title": "IT Support Specialist",
+      "join_date": "01-10-1988",
+      "birthday": "10-10-1988",
+      "technical_skills": [
+        "Networking: Basic to Advanced Network Troubleshooting"
+      ],
+      "soft_skills": [],
+      "certifications": [
+        "CompTIA Certifications Security +"
+      ],
+      "goals": [],
+      "development_plan": "",
+      "hobbies": [
+        "Basketball"
+      ],
+      "interests": [],
+      "family": "",
+      "achievements": [],
+      "issues_concerns": "",
+      "software_skills": [],
+      "other_personal_details": ""
+    },
+    "Bradley Toohey": {
+      "job_title": "IT Support - Branch Technologies Lead",
+      "join_date": "01-01-2000",
+      "birthday": "03-03-1975",
+      "technical_skills": [],
+      "soft_skills": [],
+      "software_skills": [],
+      "certifications": [],
+      "goals": [],
+      "development_plan": "",
+      "hobbies": [],
+      "interests": [],
+      "family": "",
+      "achievements": [],
+      "issues_concerns": "",
+      "other_personal_details": ""
+    },
+    "Natasha Bolton": {
+      "job_title": "IT Support Lead",
+      "join_date": "01-10-2022",
+      "birthday": "01-10-2022",
+      "technical_skills": [],
+      "soft_skills": [],
+      "software_skills": [],
+      "certifications": [],
+      "goals": [],
+      "development_plan": "",
+      "hobbies": [],
+      "interests": [],
+      "family": "",
+      "achievements": [],
+      "issues_concerns": "",
+      "other_personal_details": ""
+    }
+  },
+  "skills_data": {
+    "Technical Skills": {
+      "Operating Systems": [
+        "Windows (basic to advanced troubleshooting)",
+        "macOS (basic to advanced troubleshooting)",
+        "Linux (basic commands to system administration)",
+        "Enterprise-level OS management",
+        "Scripting (PowerShell, Bash)"
+      ],
+      "Hardware": [
+        "Basic computer components",
+        "Peripheral devices",
+        "Advanced troubleshooting and repair",
+        "Server hardware",
+        "Data center infrastructure",
+        "RAID configurations"
+      ],
+      "Networking": [
+        "Basic to advanced network troubleshooting",
+        "Wi-Fi connectivity issues",
+        "Network protocols (TCP/IP, DNS, DHCP)",
+        "VPN configuration",
+        "Firewall management",
+        "Network design and implementation",
+        "Advanced routing and switching",
+        "Load balancing"
+      ],
+      "Software": [
+        "Office suites (e.g., Microsoft Office, Google Workspace)",
+        "Email clients",
+        "Remote desktop tools",
+        "Ticketing systems",
+        "Virtualization (basics to advanced)",
+        "Database management",
+        "Cloud services (AWS, Azure, Google Cloud)",
+        "Enterprise application support"
+      ],
+      "Security": [
+        "Password management",
+        "Basic to advanced malware protection",
+        "Encryption techniques",
+        "Two-factor authentication",
+        "Security policies",
+        "Advanced threat detection and prevention",
+        "Security information and event management (SIEM)",
+        "Penetration testing basics"
+      ],
+      "Mobile Devices": [
+        "Smartphone and tablet support",
+        "Mobile OS (iOS, Android)"
+      ],
+      "Printers and Scanners": [
+        "Setup and troubleshooting",
+        "Driver installation"
+      ],
+      "Scripting and Automation": [
+        "Batch file creation (Windows)",
+        "Shell scripts (Linux)",
+        "PowerShell scripting",
+        "Python for automation"
+      ]
+    },
+    "Soft Skills": [
+      "Communication"
+    ],
+    "Certifications": [
+      "CompTIA Certifications A+",
+      "CompTIA Certifications  Network +",
+      "CompTIA Certifications Security +",
+      "CompTIA Certifications Server +",
+      "CompTIA Certifications IT Fundamentals+ (ITF+)",
+      "Microsoft 365 Certified: Fundamentals",
+      "Microsoft 365 Certified: Modern Desktop Administrator Associate",
+      "Microsoft Certified: Azure Administrator Associate",
+      "Microsoft Certified: Azure Solutions Architect Expert",
+      "Microsoft Technology Associate (MTA)",
+      "ITIL Foundation 4"
+    ]
+  },
+  "subskills_data": {
+    "Technical Skills": {
+      "Operating Systems": [
+        "Windows (basic to advanced troubleshooting)",
+        "macOS (basic to advanced troubleshooting)",
+        "Linux (basic commands to system administration)",
+        "Enterprise-level OS management",
+        "Scripting (PowerShell, Bash)",
+        "Scripting (PowerShell Bash)"
+      ],
+      "Hardware": [
+        "Peripheral devices",
+        "Advanced Troubleshooting and Repair",
+        "Server Hardware",
+        "Data Centre Infrastructure",
+        "RAID Configurations",
+        "Basic computer components",
+        "Server hardware",
+        "RAID configurations"
+      ],
+      "Networking": [
+        "\u25cb Basic to Advanced Network Troubleshooting",
+        "Basic to Advanced Network Troubleshooting",
+        "Wi-Fi connectivity issues",
+        "Network protocols (TCP/IP DNS DHCP)",
+        "VPN configuration",
+        "Firewall management",
+        "Network design and implementation",
+        "Advanced routing and switching",
+        "Load balancing"
+      ],
+      "Software": [
+        "Office suites (e.g. Microsoft Office Google Workspace)",
+        "Email clients",
+        "Remote desktop tools",
+        "Ticketing systems",
+        "Virtualization (basics to advanced)",
+        "Database management",
+        "Cloud services (AWS Azure Google Cloud)",
+        "Enterprise application support"
+      ],
+      "Security": [
+        "Password management",
+        "Basic to advanced malware protection",
+        "Encryption techniques",
+        "Two-factor authentication",
+        "Security policies",
+        "Advanced threat detection and prevention",
+        "Security information and event management (SIEM)",
+        "Penetration testing basics"
+      ],
+      "Mobile Devices": [
+        "Smartphone and tablet support",
+        "Mobile OS (iOS Android)"
+      ],
+      "Printers and Scanners": [
+        "Setup and troubleshooting",
+        "Driver installation"
+      ],
+      "Scripting and Automation": [
+        "Batch file creation (Windows)",
+        "Shell scripts (Linux)",
+        "PowerShell scripting",
+        "Python for automation"
+      ],
+      "Remote Support Tools": [
+        "TeamViewer AnyDesk or similar platforms"
+      ],
+      "Backup and Recovery": [
+        "Data backup procedures",
+        "System restore points",
+        "Disaster recovery planning"
+      ],
+      "Cloud Services": [
+        "Cloud concepts (IaaS PaaS SaaS)",
+        "Office 365 or Google Workspace administration",
+        "Enterprise cloud platforms (AWS Azure Google Cloud)"
+      ],
+      "Databases": [
+        "SQL queries",
+        "Database backup and restore",
+        "Advanced database management"
+      ],
+      "Active Directory": [
+        "User and group management",
+        "Group Policy",
+        "Enterprise-level directory services"
+      ],
+      "Network Attached Storage (NAS)": [
+        "Setup and configuration",
+        "RAID management"
+      ],
+      "Virtualization": [
+        "VMware vSphere or Microsoft Hyper-V",
+        "Container technologies (Docker Kubernetes)"
+      ],
+      "IT Service Management": [
+        "ITIL implementation",
+        "Service level agreement (SLA) management"
+      ],
+      "Project Management": [
+        "Agile and Scrum methodologies",
+        "IT project planning and execution"
+      ],
+      "Business Continuity and Disaster Recovery": [
+        "DR planning and implementation",
+        "High availability solutions"
+      ],
+      "Compliance and Governance": [
+        "IT governance frameworks (COBIT ISO 27001)",
+        "Data protection regulations (GDPR CCPA)"
+      ]
+    },
+    "Soft Skills": {
+      "Communication": [
+        "Active listening",
+        "Clear Explanation of Technical Concepts",
+        "Written Communication for Documentation"
+      ],
+      "Customer Service": [
+        "Patience and empathy",
+        "Conflict resolution",
+        "Managing expectations"
+      ],
+      "Problem-Solving": [
+        "Analytical thinking",
+        "Troubleshooting methodology",
+        "Creativity in finding solutions"
+      ],
+      "Time Management": [
+        "Prioritization",
+        "Multitasking",
+        "Meeting deadlines"
+      ],
+      "Teamwork": [
+        "Collaboration",
+        "Knowledge sharing",
+        "Adaptability"
+      ],
+      "Continuous Learning": [
+        "Self-motivation to stay updated",
+        "Openness to feedback",
+        "Curiosity about new technologies"
+      ]
+    },
+    "Recommended Certifications": {
+      "CompTIA Certifications": [
+        "A+",
+        "Network+",
+        "Security+",
+        "Server+",
+        "IT Fundamentals+ (ITF+)"
+      ],
+      "Microsoft Certifications": [
+        "Microsoft 365 Certified: Fundamentals",
+        "Microsoft 365 Certified: Modern Desktop Administrator Associate",
+        "Microsoft Certified: Azure Administrator Associate",
+        "Microsoft Certified: Azure Solutions Architect Expert",
+        "Microsoft Technology Associate (MTA)"
+      ],
+      "Cisco Certifications": [
+        "Cisco Certified Network Associate (CCNA)",
+        "Cisco Certified Network Professional (CCNP)"
+      ],
+      "AWS Certifications": [
+        "AWS Certified Cloud Practitioner",
+        "AWS Certified Solutions Architect \u00e2\u20ac\u201c Associate",
+        "AWS Certified Solutions Architect \u00e2\u20ac\u201c Professional"
+      ],
+      "VMware Certifications": [
+        "VMware Certified Professional (VCP)",
+        "VMware Certified Advanced Professional (VCAP)"
+      ],
+      "ITIL Certifications": [
+        "ITIL Foundation",
+        "ITIL Intermediate Level Certifications",
+        "ITIL Expert Level Certification"
+      ],
+      "Linux Certifications": [
+        "Linux Professional Institute LPIC-1",
+        "Red Hat Certified System Administrator (RHCSA)",
+        "Red Hat Certified Engineer (RHCE)"
+      ],
+      "Information Security Certifications": [
+        "Certified Information Systems Security Professional (CISSP)",
+        "Certified Information Systems Auditor (CISA)",
+        "Certified Information Security Manager (CISM)"
+      ],
+      "Apple Certification": [
+        "Apple Certified Support Professional (ACSP)"
+      ],
+      "Google Certification": [
+        "Google IT Support Professional Certificate"
+      ],
+      "Project Management Certification": [
+        "Project Management Professional (PMP)"
+      ],
+      "Help Desk Certification": [
+        "HDI Customer Service Representative (HDI-CSR)"
+      ]
+    }
+  },
+  "meetings": []
+}
